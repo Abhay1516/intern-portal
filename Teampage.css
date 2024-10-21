@@ -71,3 +71,19 @@
    margin: 0 15px;
    text-decoration: none;
 }
+
+.footer{
+    background-color: #DEDEDE; 
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #e9ecef;
+    color: #179df6;
+}
+
+.footer div{
+    margin-bottom: 10px;
+}
+
+.text{
+    font-style: italic;
+}
